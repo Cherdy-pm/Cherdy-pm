@@ -14,4 +14,4 @@ I am an AI Product Manager and licensed Pharmacist with over 5 years of experien
 * **Clinical Precision:** Applying pharmacist-level attention to detail in technical documentation.
 
 ---
-📫 **Let's Connect:** [Your LinkedIn Link]
+📫 **Let's Connect:** [www.linkedin.com/in/shedrach-obafemi-contentwriter]
