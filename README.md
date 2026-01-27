@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Shedrach Obafemi 👋
 
-<!--
-**Cherdy-pm/Cherdy-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Manager | Automation Professional | Pharmacist**
 
-Here are some ideas to get you started:
+I am an AI Product Manager and licensed Pharmacist with over 5 years of experience leading projects at the intersection of healthcare and technology. I specialize in building high-impact products and autonomous workflows that solve complex real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Projects
+* **Mood Maestro:** A voice-activated AI music curator using natural language processing to eliminate music decision fatigue.
+* **Automation Architecture:** Designing n8n and low-code ecosystems to streamline medical content pipelines.
+
+### 🧠 Core Competencies
+* **AI Product Strategy:** PRD development, roadmap execution, and technical lifecycle management.
+* **Automation Engineering:** Workflow design using n8n and API integrations.
+* **Clinical Precision:** Applying pharmacist-level attention to detail in technical documentation.
+
+---
+📫 **Let's Connect:** [Your LinkedIn Link]
