@@ -10,7 +10,7 @@ I am an AI Product Manager and licensed Pharmacist with over 5 years of experien
 
 ### 🧠 Core Competencies
 * **AI Product Strategy:** PRD development, roadmap execution, and technical lifecycle management.
-* **Automation Engineering:** Workflow design using n8n and API integrations.
+* **Automation Engineering:** Workflow design using python, Make.io, n8n and API integrations.
 * **Clinical Precision:** Applying pharmacist-level attention to detail in technical documentation.
 
 ---
